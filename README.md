@@ -9,6 +9,8 @@ React、React Hooks、Javascript 、CSS、Framer Motion、 Apex Charts、AntV、
 ![](./preview-ipad.png)
 #### Iphone
 ![](./preview-iphone.png)
+
+![](./preview-iphone2.png)
 ### 用法：
 #### yarn (安装依赖)
 #### yarn start <br>
