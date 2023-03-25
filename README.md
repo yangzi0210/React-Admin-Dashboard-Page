@@ -3,7 +3,12 @@
 ### 技术栈：
 React、React Hooks、Javascript 、CSS、Framer Motion、 Apex Charts、AntV、Material UI、媒体查询响应式设计、iconscout
 ### 预览
+#### web端
 ![](./preview.png)
+#### IPAD
+![](./preview-ipad.png)
+#### Iphone
+![](./preview-iphone.png)
 ### 用法：
 #### yarn (安装依赖)
 #### yarn start <br>
