@@ -8,7 +8,7 @@ import TableRow from "@mui/material/TableRow";
 import Paper from "@mui/material/Paper";
 import "./Table.css";
 
-function createData(name, trackingId, date, status) {
+const createData=(name, trackingId, date, status)=> {
   return { name, trackingId, date, status };
 }
 

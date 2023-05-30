@@ -6,7 +6,7 @@ import { motion, AnimateSharedLayout } from "framer-motion";
 import { UilTimes } from "@iconscout/react-unicons";
 import Chart from "react-apexcharts";
 
-// parent Card
+
 
 const Card = (props) => {
   const [expanded, setExpanded] = useState(false);
@@ -21,8 +21,8 @@ const Card = (props) => {
   );
 };
 
-// Compact Card
-function CompactCard({ param, setExpanded }) {
+
+const CompactCard=({ param, setExpanded }) =>{
   const Png = param.png;
   return (
     <motion.div
@@ -50,10 +50,8 @@ function CompactCard({ param, setExpanded }) {
   );
 }
 
-// Expanded Card
-function ExpandedCard({ param, setExpanded }) {
-  
 
+const ExpandedCard=({ param, setExpanded }) =>{
   return (
     <motion.div
       className="ExpandedCard"

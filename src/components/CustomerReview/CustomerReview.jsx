@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react';
 import { Area } from '@ant-design/plots';
 import { myData } from './Data';
 import './CustomerReview.css'
